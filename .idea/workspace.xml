@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -26,7 +27,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BNGW-lab5/Pro2 Wine Festival Schedule/Pro2 Wine Festival Schedule/Begin/style.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603459261076</updated>
       <workItem from="1603459271327" duration="3775000" />
-      <workItem from="1603709707508" duration="4983000" />
+      <workItem from="1603709707508" duration="10822000" />
     </task>
     <servers />
   </component>
@@ -46,10 +48,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603709782757">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603715534609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603709782757" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603715534609" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1603462454463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
